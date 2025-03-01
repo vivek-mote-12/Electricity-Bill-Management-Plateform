@@ -1,4 +1,4 @@
-# ⚡ Utility Billing and Payment System
+# ⚡ Electricity Billing and Payment System
 
 A full-stack platform for electricity bill payments, featuring **customer billing**, **invoice generation**, **secure authentication**, **payment tracking**, and **PDF bill downloads**.
 
