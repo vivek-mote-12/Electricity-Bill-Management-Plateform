@@ -10,8 +10,6 @@ This project is divided into two parts:
 - **Frontend:** Employee-facing portal for managing customers, invoices, and transactions.  
 - **Backend:** Manages customer data, payment processing, and integrates with the frontend.
 
-🔗 **Live Demo (if deployed):** [Add your deployed link here]  
-
 ---
 
 ## 📂 Repository Links  
@@ -66,3 +64,15 @@ git clone https://github.com/vivek-mote-12/electricity-bill-payment-platform.git
 cd electricity-bill-payment-platform
 mvn clean install
 mvn spring-boot:run
+
+### **🔹 Frontend Setup**
+```bash
+# Clone the repository
+git clone https://github.com/vivek-mote-12/employee-facing-billing-management-frontend.git
+cd employee-facing-billing-management-frontend
+
+# Install dependencies
+npm install
+
+# Run the Angular app
+ng serve
